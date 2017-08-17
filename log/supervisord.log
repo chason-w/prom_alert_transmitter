@@ -1,0 +1,91 @@
+2017-08-17 19:24:18,766 INFO Increased RLIMIT_NOFILE limit to 1024
+2017-08-17 19:24:18,797 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-08-17 19:24:18,800 INFO daemonizing the supervisord process
+2017-08-17 19:24:18,801 INFO supervisord started with pid 21689
+2017-08-17 19:24:19,806 INFO spawned: 'monitor_app' with pid 21695
+2017-08-17 19:24:20,872 INFO success: monitor_app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2017-08-17 19:26:28,409 INFO exited: monitor_app (exit status 0; expected)
+2017-08-17 19:26:29,412 INFO spawned: 'monitor_app' with pid 21777
+2017-08-17 19:26:30,491 INFO success: monitor_app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2017-08-17 19:26:32,247 INFO exited: monitor_app (exit status 0; expected)
+2017-08-17 19:26:33,252 INFO spawned: 'monitor_app' with pid 21805
+2017-08-17 19:26:34,292 INFO success: monitor_app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2017-08-17 19:27:14,571 INFO Increased RLIMIT_NOFILE limit to 1024
+2017-08-17 19:27:14,891 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-08-17 19:27:14,893 INFO daemonizing the supervisord process
+2017-08-17 19:27:14,894 INFO supervisord started with pid 21868
+2017-08-17 19:27:15,899 INFO spawned: 'dingding_app' with pid 21874
+2017-08-17 19:27:16,937 INFO success: dingding_app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2017-08-17 19:34:02,026 INFO exited: dingding_app (exit status 0; expected)
+2017-08-17 19:34:03,030 INFO spawned: 'dingding_app' with pid 22013
+2017-08-17 19:34:04,121 INFO success: dingding_app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2017-08-17 19:34:38,888 INFO Increased RLIMIT_NOFILE limit to 1024
+2017-08-17 19:34:39,207 INFO RPC interface 'supervisor' initialized
+2017-08-17 19:34:39,207 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-08-17 19:34:39,210 INFO daemonizing the supervisord process
+2017-08-17 19:34:39,211 INFO supervisord started with pid 22048
+2017-08-17 19:34:40,216 INFO spawned: 'dingding_app' with pid 22054
+2017-08-17 19:34:40,248 INFO exited: dingding_app (exit status 1; not expected)
+2017-08-17 19:34:41,252 INFO spawned: 'dingding_app' with pid 22055
+2017-08-17 19:34:41,277 INFO exited: dingding_app (exit status 1; not expected)
+2017-08-17 19:34:43,283 INFO spawned: 'dingding_app' with pid 22056
+2017-08-17 19:34:43,308 INFO exited: dingding_app (exit status 1; not expected)
+2017-08-17 19:34:46,317 INFO spawned: 'dingding_app' with pid 22063
+2017-08-17 19:34:46,346 INFO exited: dingding_app (exit status 1; not expected)
+2017-08-17 19:34:47,347 INFO gave up: dingding_app entered FATAL state, too many start retries too quickly
+2017-08-17 19:55:05,263 INFO Increased RLIMIT_NOFILE limit to 1024
+2017-08-17 19:55:05,602 INFO RPC interface 'supervisor' initialized
+2017-08-17 19:55:05,602 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-08-17 19:55:05,605 INFO daemonizing the supervisord process
+2017-08-17 19:55:05,608 INFO supervisord started with pid 22568
+2017-08-17 19:55:06,612 INFO spawned: 'dingding_app' with pid 22574
+2017-08-17 19:55:07,663 INFO success: dingding_app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2017-08-17 19:59:55,211 INFO exited: dingding_app (exit status 0; expected)
+2017-08-17 19:59:56,217 INFO spawned: 'dingding_app' with pid 22731
+2017-08-17 19:59:57,284 INFO success: dingding_app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2017-08-17 20:00:13,981 INFO waiting for dingding_app to stop
+2017-08-17 20:00:15,981 INFO waiting for dingding_app to stop
+2017-08-17 20:00:17,981 INFO waiting for dingding_app to stop
+2017-08-17 20:00:19,981 INFO waiting for dingding_app to stop
+2017-08-17 20:00:21,981 INFO waiting for dingding_app to stop
+2017-08-17 20:00:23,981 WARN killing 'dingding_app' (22731) with SIGKILL
+2017-08-17 20:00:23,982 INFO waiting for dingding_app to stop
+2017-08-17 20:00:23,986 INFO stopped: dingding_app (terminated by SIGKILL)
+2017-08-17 20:00:23,992 INFO spawned: 'dingding_app' with pid 22761
+2017-08-17 20:00:24,032 INFO exited: dingding_app (exit status 1; not expected)
+2017-08-17 20:00:25,036 INFO spawned: 'dingding_app' with pid 22762
+2017-08-17 20:00:25,062 INFO exited: dingding_app (exit status 1; not expected)
+2017-08-17 20:00:27,069 INFO spawned: 'dingding_app' with pid 22768
+2017-08-17 20:00:27,094 INFO exited: dingding_app (exit status 1; not expected)
+2017-08-17 20:00:30,099 INFO spawned: 'dingding_app' with pid 22769
+2017-08-17 20:00:30,125 INFO exited: dingding_app (exit status 1; not expected)
+2017-08-17 20:00:31,127 INFO gave up: dingding_app entered FATAL state, too many start retries too quickly
+2017-08-17 20:01:42,266 INFO Increased RLIMIT_NOFILE limit to 1024
+2017-08-17 20:01:42,609 INFO RPC interface 'supervisor' initialized
+2017-08-17 20:01:42,609 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-08-17 20:01:42,612 INFO daemonizing the supervisord process
+2017-08-17 20:01:42,614 INFO supervisord started with pid 22821
+2017-08-17 20:01:43,619 INFO spawned: 'dingding_app' with pid 22827
+2017-08-17 20:01:44,658 INFO success: dingding_app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2017-08-17 20:03:21,510 INFO Increased RLIMIT_NOFILE limit to 1024
+2017-08-17 20:03:21,852 INFO RPC interface 'supervisor' initialized
+2017-08-17 20:03:21,853 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-08-17 20:03:21,855 INFO daemonizing the supervisord process
+2017-08-17 20:03:21,856 INFO supervisord started with pid 22905
+2017-08-17 20:03:22,861 INFO spawned: 'dingding_app' with pid 22912
+2017-08-17 20:03:24,296 INFO success: dingding_app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2017-08-17 20:13:08,356 INFO Increased RLIMIT_NOFILE limit to 1024
+2017-08-17 20:13:08,700 INFO RPC interface 'supervisor' initialized
+2017-08-17 20:13:08,700 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-08-17 20:13:08,703 INFO daemonizing the supervisord process
+2017-08-17 20:13:08,705 INFO supervisord started with pid 23254
+2017-08-17 20:13:09,710 INFO spawned: 'dingding_app' with pid 23260
+2017-08-17 20:13:11,054 INFO success: dingding_app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2017-08-17 20:31:38,686 INFO waiting for dingding_app to stop
+2017-08-17 20:31:40,686 INFO waiting for dingding_app to stop
+2017-08-17 20:31:42,686 INFO waiting for dingding_app to stop
+2017-08-17 20:31:44,686 INFO waiting for dingding_app to stop
+2017-08-17 20:31:46,686 INFO waiting for dingding_app to stop
+2017-08-17 20:31:48,685 WARN killing 'dingding_app' (23260) with SIGKILL
+2017-08-17 20:31:48,686 INFO waiting for dingding_app to stop
+2017-08-17 20:31:48,689 INFO stopped: dingding_app (terminated by SIGKILL)
